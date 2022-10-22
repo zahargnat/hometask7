@@ -1,0 +1,130 @@
+.webstudio-header{
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    color: #2196F3;
+    letter-spacing: 0.03em;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+
+.header-list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.header-list li{
+    margin-right: 57px ;
+    width: 72px;
+    height: 16px;
+    left: 552px;
+    top: 31px;
+    color: black;
+}
+
+.header-info{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-info li{
+    margin-left: 55px;
+}
+
+.main-h1{
+    display: flex;
+    justify-content: center;
+}
+
+.main-button{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+
+.main-text{
+    display: flex;
+    list-style: none;
+}
+
+.main-zanyattya{
+    display: flex;
+    justify-content: center;
+}
+
+.main-photos{
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+    justify-content: space-around;
+}
+
+.main-taem{
+    display: flex;
+    justify-content: center;
+}
+
+.main-photos2{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    justify-content: space-around;
+}
+
+.header-webstudio-pf{
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    color: #2196F3;
+    letter-spacing: 0.03em;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+
+.header-list-pf{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-list-pf li{
+      margin-right: 57px ;
+    width: 72px;
+    height: 16px;
+    left: 552px;
+    top: 31px;
+    color: black;
+}
+  
+.header-info-pf{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-info-pf li{
+    margin-left: 55px;
+}
+
+.main-buttons-pf{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.main-buttons-pf button{
+    margin-right: 8px;
+}
+
+.main-photos-pf{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
